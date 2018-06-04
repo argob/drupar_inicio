@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Inicio feature.
+ */
+
+include_once 'drupar_inicio.features.inc';
